@@ -8,3 +8,4 @@ Get two string from the user and compare them the way he chose when he actrivate
 The mission was to do it by used fork and getting the child process to go to other program, compare the strings there, and return the result ( 1 - first is 'bigger', 2 - second is 'bigger', or 0 - eqauls) as the child exit code. Then, the parent print the exit code of the child.
 
 # Example of the running program
+![ex1_screenshot](https://user-images.githubusercontent.com/93268216/166437651-1118a78a-552f-4098-861b-0a3db00edb89.png)
